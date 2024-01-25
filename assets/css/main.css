@@ -2440,7 +2440,7 @@ input, select, textarea {
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px #efefef;
+		border: solid 3px #787878;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
@@ -2459,7 +2459,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #787878;
+			border-color: #efefef;
 			color: #787878 !important;
 		}
 
